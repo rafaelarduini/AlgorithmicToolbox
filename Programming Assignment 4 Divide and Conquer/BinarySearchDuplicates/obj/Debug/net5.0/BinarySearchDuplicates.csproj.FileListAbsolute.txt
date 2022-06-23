@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\BinarySearchDuplicates.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\BinarySearchDuplicates.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\BinarySearchDuplicates.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\BinarySearchDuplicates.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\BinarySearchDuplicates.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\ref\BinarySearchDuplicates.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\bin\Debug\net5.0\BinarySearchDuplicates.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\ref\BinarySearchDuplicates.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearchDuplicates\obj\Debug\net5.0\BinarySearchDuplicates.genruntimeconfig.cache

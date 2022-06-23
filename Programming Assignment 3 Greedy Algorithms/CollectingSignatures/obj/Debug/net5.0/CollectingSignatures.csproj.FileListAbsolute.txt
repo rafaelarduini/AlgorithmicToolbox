@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\CollectingSignatures.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\CollectingSignatures.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\CollectingSignatures.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\CollectingSignatures.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\CollectingSignatures.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\ref\CollectingSignatures.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\bin\Debug\net5.0\CollectingSignatures.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\ref\CollectingSignatures.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CollectingSignatures\obj\Debug\net5.0\CollectingSignatures.csproj.AssemblyReference.cache

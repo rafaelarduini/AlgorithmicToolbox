@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\APlusB.exe
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\APlusB.deps.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\APlusB.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\APlusB.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\APlusB.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\ref\APlusB.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\bin\Debug\net5.0\APlusB.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\ref\APlusB.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\SumOfTwoDigits\obj\Debug\net5.0\APlusB.csproj.AssemblyReference.cache

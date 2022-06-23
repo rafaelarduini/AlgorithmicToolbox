@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\Inversions.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\Inversions.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\Inversions.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\Inversions.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\Inversions.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\ref\Inversions.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\bin\Debug\net5.0\Inversions.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\ref\Inversions.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\Inversions\obj\Debug\net5.0\Inversions.genruntimeconfig.cache

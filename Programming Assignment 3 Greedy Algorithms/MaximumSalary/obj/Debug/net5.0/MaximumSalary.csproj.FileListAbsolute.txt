@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\MaximumSalary.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\MaximumSalary.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\MaximumSalary.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\MaximumSalary.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\MaximumSalary.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\ref\MaximumSalary.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\bin\Debug\net5.0\MaximumSalary.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\ref\MaximumSalary.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumSalary\obj\Debug\net5.0\MaximumSalary.csproj.AssemblyReference.cache

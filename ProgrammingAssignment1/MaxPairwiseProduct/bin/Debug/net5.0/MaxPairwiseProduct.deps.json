@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MaxPairwiseProduct/1.0.0": {
+        "runtime": {
+          "MaxPairwiseProduct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MaxPairwiseProduct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

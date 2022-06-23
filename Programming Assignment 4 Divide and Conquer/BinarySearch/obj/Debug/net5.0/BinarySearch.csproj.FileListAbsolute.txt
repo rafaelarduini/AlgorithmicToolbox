@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache

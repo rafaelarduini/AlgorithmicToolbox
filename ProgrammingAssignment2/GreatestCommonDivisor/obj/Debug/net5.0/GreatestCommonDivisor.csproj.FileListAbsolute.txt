@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.exe
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.deps.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\bin\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\ref\GreatestCommonDivisor.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\GreatestCommonDivisor\obj\Debug\net5.0\GreatestCommonDivisor.genruntimeconfig.cache

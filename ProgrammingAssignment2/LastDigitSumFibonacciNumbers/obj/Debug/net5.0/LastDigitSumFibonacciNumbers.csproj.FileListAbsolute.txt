@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\LastDigitSumFibonacciNumbers.exe
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\LastDigitSumFibonacciNumbers.deps.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\LastDigitSumFibonacciNumbers.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\LastDigitSumFibonacciNumbers.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\LastDigitSumFibonacciNumbers.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\ref\LastDigitSumFibonacciNumbers.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\bin\Debug\net5.0\LastDigitSumFibonacciNumbers.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\ref\LastDigitSumFibonacciNumbers.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LastDigitSumFibonacciNumbers\obj\Debug\net5.0\LastDigitSumFibonacciNumbers.csproj.AssemblyReference.cache

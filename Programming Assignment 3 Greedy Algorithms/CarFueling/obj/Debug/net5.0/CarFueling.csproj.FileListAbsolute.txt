@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\CarFueling.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\CarFueling.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\CarFueling.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\CarFueling.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\CarFueling.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\ref\CarFueling.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\bin\Debug\net5.0\CarFueling.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\ref\CarFueling.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\CarFueling\obj\Debug\net5.0\CarFueling.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\LeastCommonMultiple.exe
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\LeastCommonMultiple.deps.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\LeastCommonMultiple.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\LeastCommonMultiple.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\LeastCommonMultiple.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\ref\LeastCommonMultiple.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\bin\Debug\net5.0\LeastCommonMultiple.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\ref\LeastCommonMultiple.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\LeastCommonMultiple\obj\Debug\net5.0\LeastCommonMultiple.csproj.AssemblyReference.cache

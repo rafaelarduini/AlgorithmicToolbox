@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\MaximumAdvertisementRevenue.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\MaximumAdvertisementRevenue.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\MaximumAdvertisementRevenue.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\MaximumAdvertisementRevenue.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\MaximumAdvertisementRevenue.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\ref\MaximumAdvertisementRevenue.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\bin\Debug\net5.0\MaximumAdvertisementRevenue.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\ref\MaximumAdvertisementRevenue.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumAdvertisementRevenue\obj\Debug\net5.0\MaximumAdvertisementRevenue.genruntimeconfig.cache

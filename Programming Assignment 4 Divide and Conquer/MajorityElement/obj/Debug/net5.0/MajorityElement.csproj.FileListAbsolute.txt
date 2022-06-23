@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\MajorityElement.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\MajorityElement.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\MajorityElement.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\MajorityElement.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\MajorityElement.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\ref\MajorityElement.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\bin\Debug\net5.0\MajorityElement.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\ref\MajorityElement.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\MajorityElement\obj\Debug\net5.0\MajorityElement.genruntimeconfig.cache

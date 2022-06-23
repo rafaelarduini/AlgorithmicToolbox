@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\FibonacciNumberAgain.exe
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\FibonacciNumberAgain.deps.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\FibonacciNumberAgain.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\FibonacciNumberAgain.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\FibonacciNumberAgain.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\ref\FibonacciNumberAgain.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\bin\Debug\net5.0\FibonacciNumberAgain.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\ref\FibonacciNumberAgain.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment2\FibonacciNumberAgain\obj\Debug\net5.0\FibonacciNumberAgain.genruntimeconfig.cache

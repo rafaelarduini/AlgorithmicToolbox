@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ImprovingQuickSort.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ImprovingQuickSort.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ImprovingQuickSort.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ImprovingQuickSort.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ImprovingQuickSort.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ref\ImprovingQuickSort.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\bin\Debug\net5.0\ImprovingQuickSort.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ref\ImprovingQuickSort.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\ImprovingQuickSort\obj\Debug\net5.0\ImprovingQuickSort.csproj.AssemblyReference.cache

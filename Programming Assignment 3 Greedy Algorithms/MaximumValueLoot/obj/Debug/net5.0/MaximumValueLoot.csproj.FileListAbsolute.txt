@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\MaximumValueLoot.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\MaximumValueLoot.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\MaximumValueLoot.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\MaximumValueLoot.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\MaximumValueLoot.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\ref\MaximumValueLoot.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\bin\Debug\net5.0\MaximumValueLoot.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\ref\MaximumValueLoot.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumValueLoot\obj\Debug\net5.0\MaximumValueLoot.genruntimeconfig.cache

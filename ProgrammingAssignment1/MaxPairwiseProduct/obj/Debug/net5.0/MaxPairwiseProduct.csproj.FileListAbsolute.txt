@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\MaxPairwiseProduct.exe
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\MaxPairwiseProduct.deps.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\MaxPairwiseProduct.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\MaxPairwiseProduct.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\MaxPairwiseProduct.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\ref\MaxPairwiseProduct.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\bin\Debug\net5.0\MaxPairwiseProduct.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.csproj.AssemblyReference.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\ref\MaxPairwiseProduct.dll
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.pdb
+C:\Dev\AlgorithmicToolbox\ProgrammingAssignment1\MaxPairwiseProduct\obj\Debug\net5.0\MaxPairwiseProduct.genruntimeconfig.cache

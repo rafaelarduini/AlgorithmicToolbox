@@ -1,0 +1,16 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\MaximumNumberPrizes.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\MaximumNumberPrizes.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\MaximumNumberPrizes.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\MaximumNumberPrizes.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\MaximumNumberPrizes.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\ref\MaximumNumberPrizes.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\bin\Debug\net5.0\MaximumNumberPrizes.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\ref\MaximumNumberPrizes.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.genruntimeconfig.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 3 Greedy Algorithms\MaximumNumberPrizes\obj\Debug\net5.0\MaximumNumberPrizes.csproj.AssemblyReference.cache
