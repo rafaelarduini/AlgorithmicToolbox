@@ -1,0 +1,15 @@
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\OrganizingLottery.exe
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\OrganizingLottery.deps.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\OrganizingLottery.runtimeconfig.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\OrganizingLottery.runtimeconfig.dev.json
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\OrganizingLottery.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\ref\OrganizingLottery.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\bin\Debug\net5.0\OrganizingLottery.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.AssemblyInfoInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.AssemblyInfo.cs
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.csproj.CoreCompileInputs.cache
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\ref\OrganizingLottery.dll
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.pdb
+C:\Dev\AlgorithmicToolbox\Programming Assignment 4 Divide and Conquer\OrganizingLottery\obj\Debug\net5.0\OrganizingLottery.genruntimeconfig.cache

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MajorityElement", "Majority
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprovingQuickSort", "ImprovingQuickSort\ImprovingQuickSort.csproj", "{FB8DAD5A-AE9C-4E66-B06D-D1EFAD1CEA7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inversions", "Inversions\Inversions.csproj", "{A411E2FD-D13F-4A38-B53B-2E0AACA02F1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inversions", "Inversions\Inversions.csproj", "{A411E2FD-D13F-4A38-B53B-2E0AACA02F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizingLottery", "OrganizingLottery\OrganizingLottery.csproj", "{23C3B3FB-9A6F-4FC6-8EAE-B1CA70893F65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A411E2FD-D13F-4A38-B53B-2E0AACA02F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A411E2FD-D13F-4A38-B53B-2E0AACA02F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A411E2FD-D13F-4A38-B53B-2E0AACA02F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C3B3FB-9A6F-4FC6-8EAE-B1CA70893F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C3B3FB-9A6F-4FC6-8EAE-B1CA70893F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C3B3FB-9A6F-4FC6-8EAE-B1CA70893F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C3B3FB-9A6F-4FC6-8EAE-B1CA70893F65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
